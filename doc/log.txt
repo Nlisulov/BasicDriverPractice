@@ -3,6 +3,11 @@
     Accomplished:
         
     To do:
+        -Nathan needs to learn C++ on cplusplus.com
+            -> Difference in printing
+            -> Structs
+            -> Object Oriented Programming
+        -Look up on setting up the driver
 
 -----------------------------------------------------------------------------
 
