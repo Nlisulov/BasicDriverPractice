@@ -1,0 +1,18 @@
+Overview of Project Expectations
+---------------------------------
+
+Summary of project:
+Making a basic driver, learning C++ driver development in Windows/Unix.
+
+Required (basic) Features:
+
+	- Device runs with driver installed
+	- Possibly print something or have some basic visual response to check that driver is operating and running as expected
+
+Other Features:
+
+	- Connect and respond to adding/removing monitor
+	- Connect and respond to adding/removing mouse
+	- Connect and respond to adding/removing keyboard
+	- Connect and respond to adding/removing microphone
+		- possibly add more functionality with microphone responses
