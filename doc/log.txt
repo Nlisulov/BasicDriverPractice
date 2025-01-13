@@ -1,4 +1,4 @@
-2024-12-28	--	[Contributor Name]
+2024-12-28	--	[Amelia Moore]
 
     Accomplished:
         
@@ -11,8 +11,22 @@
 
 -----------------------------------------------------------------------------
 
-2025-?-?	--	[Contributor Name]
+2025-01-12	--	[Nathan Lisulov]
 
     Accomplished:
-        
+        -Nathan Installed all the components to start driver development, including:
+            1. Visual Studio individual components
+            2. Windows SDK (Software Development Kit)
+            3. Windows Driver Kit(WDK)
+        - Nathan Completed 3 sections of cplusplus.com
     To do:
+        -Continue learning about C++ on cplusplus.com 
+
+-----------------------------------------------------------------------------
+
+2025-01-12	--	[Contributor Name]
+
+    Accomplished:
+        pass
+    To do:
+        pass
